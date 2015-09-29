@@ -52,4 +52,23 @@ table {
 	border-spacing: 0;
 }
 
+/* end reset */
+
+html, body {
+	margin: 0;
+	padding: 0;
+	padding-top: 2%;
+	padding-left: 6%;
+	padding-right: 10%;
+	padding-bottom: 2%;
+	height: 100%;
+}
+
+body {
+	width: 33em;
+}
+
+
+
+
 </style>

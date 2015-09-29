@@ -68,6 +68,15 @@ body {
 	width: 33em;
 }
 
+em {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	font-size: 0.8em;
+	color: rgb(160,160,160);
+	font-weight: 400;
+	margin-left: 20px;
+	font-style: normal;
+}
+
 
 
 

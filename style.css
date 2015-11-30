@@ -29,6 +29,7 @@ time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
+
 }
 body {
 	line-height: 1;
@@ -54,6 +55,12 @@ table {
 
 /* end reset */
 
+@font-face {
+		font-family: 'Betterfly';
+		src: url('betterfly-draft-webfont.ttf');
+}
+
+
 html, body {
 	margin: 0;
 	padding: 0;
@@ -62,6 +69,8 @@ html, body {
 	padding-right: 10%;
 	padding-bottom: 2%;
 	height: 100%;
+	font-family: 'Betterfly';
+
 }
 
 body {
@@ -88,7 +97,6 @@ a:hover {
 	border: none !important;
 	color: rgb(100,100,100);
 }
-
 
 
 

@@ -72,10 +72,7 @@ body {
 }
 
 em {
-/*	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-*/
-/*	font-family: 'Arimo', sans-serif;
-*/	font-size: 0.85em;
+	font-size: 0.85em;
 	color: rgb(70,70,70);
 	font-weight: 500;
 	margin-left: 7px;

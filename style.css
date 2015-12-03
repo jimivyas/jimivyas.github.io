@@ -55,11 +55,14 @@ table {
 
 /* end reset */
 
+
+/* comment out the joke font :)
+
 @font-face {
 		font-family: 'Betterfly';
 		src: url('betterfly-draft-webfont.ttf');
 }
-
+*/
 
 html, body {
 	margin: 0;
@@ -69,8 +72,8 @@ html, body {
 	padding-right: 10%;
 	padding-bottom: 2%;
 	height: 100%;
-	font-family: 'Betterfly';
-
+/*	font-family: 'Betterfly';
+*/
 }
 
 body {

@@ -6,13 +6,15 @@
 var taudio = new Audio('http://iia.world/full.mp3');
 taudio.loop() = true;
 
- 
+ document.onclick = function() {
+  alert("hello")
+  taudio.play();
     
 }
 </script>
 <link rel="stylesheet" href="/style.css">
 </head>
 <body>
-<div style="background-image: url(http://iia.world/cs.png)" onClick="taudio.play();"></div>
+<div style="background-image: url(http://iia.world/cs.png)"></div>
 </body>
 </html>
